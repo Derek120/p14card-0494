@@ -1,19 +1,7 @@
 # p13rouler0494
 
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![image](https://github.com/Derek120/p14card-0494/assets/159184890/8d14b471-3f7e-4fd9-8477-56f81dc10eea)
+![image](https://github.com/Derek120/p14card-0494/assets/159184890/5b35da93-59d1-4d0c-8ceb-8a245e7224b9)
+![image](https://github.com/Derek120/p14card-0494/assets/159184890/b4e53f9b-dfd8-44f4-83b7-36adbb154310)
+https://api.flutter.dev/flutter/search.html?q=card
+https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
